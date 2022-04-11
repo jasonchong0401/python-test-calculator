@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="0" failures="1" skipped="0" tests="4" time="0.047" timestamp="2022-04-11T14:25:54.931906" hostname="jchong-desktop"><testcase classname="test.test_addition" name="test_add" file="test/test_addition.py" line="5" time="0.001" /><testcase classname="test.test_addition" name="test_add_string" file="test/test_addition.py" line="9" time="0.000" /><testcase classname="test.test_subtract" name="test_subtract" file="test/test_subtract.py" line="2" time="0.001"><failure message="assert 5 == 4&#10;  +5&#10;  -4">def test_subtract():
-        result = subtract(8, 3)
-&gt;       assert result == 4
-E       assert 5 == 4
-E         +5
-E         -4
-
-test/test_subtract.py:5: AssertionError</failure></testcase><testcase classname="test.test_subtract" name="test_subtractNew" file="test/test_subtract.py" line="6" time="0.000" /></testsuite></testsuites>

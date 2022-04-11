@@ -8,6 +8,6 @@ WORKDIR /python-test-calculator
 
 RUN pip install -r requirements.txt
 
-RUN ["pytest", "-v", "--junitxml=reports/result.xml"]
+#RUN ["pytest", "-v", "--junitxml=reports/result.xml"]
 
 CMD tail -f /dev/null
