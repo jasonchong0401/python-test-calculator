@@ -14,7 +14,7 @@ blinker==1.4
 cachelib==0.6.0
 cattrs==1.10.0
 certifi==2021.10.8
-click @ file:///tmp/build/80754af9/click_1646056590078/work
+#click @ file:///tmp/build/80754af9/click_1646056590078/work
 clickclick==20.10.2
 colorlog==6.6.0
 commonmark==0.9.1
@@ -25,7 +25,7 @@ dill==0.3.4
 dnspython==2.2.1
 docutils==0.16
 email-validator==1.1.3
-Flask @ file:///opt/conda/conda-bld/flask_1648041541647/work
+#Flask @ file:///opt/conda/conda-bld/flask_1648041541647/work
 Flask-AppBuilder==3.4.5
 Flask-Babel==2.0.0
 Flask-Caching==1.10.1
@@ -43,11 +43,11 @@ httpx==0.22.0
 iniconfig==1.1.1
 iso8601==1.0.2
 itsdangerous==2.1.2
-Jinja2 @ file:///opt/conda/conda-bld/jinja2_1647436528585/work
+#Jinja2 @ file:///opt/conda/conda-bld/jinja2_1647436528585/work
 lockfile==0.12.2
 Mako==1.2.0
 Markdown==3.3.6
-MarkupSafe @ file:///tmp/build/80754af9/markupsafe_1621523467000/work
+#MarkupSafe @ file:///tmp/build/80754af9/markupsafe_1621523467000/work
 marshmallow==3.15.0
 marshmallow-enum==1.5.1
 marshmallow-oneofschema==3.0.1
