@@ -2,7 +2,7 @@ from src.calculator import subtract
 
 def test_subtract():
     result = subtract(8, 3)
-    assert result == 6
+    assert result == 4
 
 def test_subtractNew():
     result = subtract(8.0, 3)
