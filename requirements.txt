@@ -42,7 +42,7 @@ httpcore==0.14.7
 httpx==0.22.0
 iniconfig==1.1.1
 iso8601==1.0.2
-itsdangerous==1.1.0
+itsdangerous==2.1.2
 Jinja2 @ file:///opt/conda/conda-bld/jinja2_1647436528585/work
 lockfile==0.12.2
 Mako==1.2.0
@@ -77,5 +77,5 @@ tabulate==0.8.9
 tenacity==8.0.1
 termcolor==1.1.0
 tomli==2.0.1
-Werkzeug==1.0.1
+Werkzeug==2.1.1
 WTForms==2.3.3
